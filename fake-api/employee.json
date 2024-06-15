@@ -1,0 +1,53 @@
+{
+  "employees": [
+    {
+      "id": "32c9",
+      "_id": 89,
+      "name": "Nakoto Asmi",
+      "department": "IT Department",
+      "salary": 5700
+    },
+    {
+      "id": "67e2",
+      "_id": 175,
+      "name": "Fariz Memmedov",
+      "department": "Bilisim",
+      "salary": 3800
+    },
+    {
+      "id": "1ba5",
+      "_id": 79,
+      "name": "Nakamuro Emisaki",
+      "department": "Fron Office",
+      "salary": 4000
+    },
+    {
+      "id": "d086",
+      "_id": 42,
+      "name": "Nakazaki Soturo",
+      "department": "HR Department",
+      "salary": 4500
+    },
+    {
+      "id": "79d7",
+      "_id": 59,
+      "name": "Hasan Kaburo",
+      "department": "IT",
+      "salary": 5100
+    },
+    {
+      "id": "82d4",
+      "_id": 546,
+      "name": "Notido",
+      "department": "beles",
+      "salary": 154
+    },
+    {
+      "id": "af6c",
+      "_id": 541,
+      "name": "Nazim Kimoto",
+      "department": "IT Department",
+      "salary": 5101
+    }
+  ]
+}
